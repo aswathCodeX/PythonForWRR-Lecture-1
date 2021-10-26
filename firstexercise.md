@@ -19,5 +19,6 @@ Table:
 2. Narmada
 3. Sabarmati
 
-[References][1]
+[References wiki][1]
+
 [1]: https://en.wikipedia.org/wiki/Brahmaputra_River

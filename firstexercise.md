@@ -21,7 +21,3 @@ Table:
 
 [References][1]
 [1]: https://en.wikipedia.org/wiki/Brahmaputra_River
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com

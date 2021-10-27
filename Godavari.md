@@ -11,17 +11,17 @@ The river has been revered in Hindu scriptures for many millennia and continues 
 
 Table:
 
-| Salient Features of Godavari Basin | |
+| Salient Features of Godavari Basin ||
 | ------ | :----- |
-| Length of Godavari River (Km) 	| 1465 |
-|Catchment Area (Sq.km.) 	| 312812 |
-|Average Water Resource Potential (MCM)	|110540|
-Utilizable Surface Water Resource(MCM) 	| 76300|
-Live Storage Capacity of Completed Projects (MCM) 	|35434.00|
-Live Storage Capacity of Projects Under Construction (MCM) 	|8228.00|
-Total Live Storage Capacity of Projects (MCM) 	|43662.00|
-No. of Hydrological Observation Stations (maintained by CWC) 	|77|
-No. of Flood Forecasting Stations (maintained by CWC) 	|18|
+| Length of Godavari River | 1465 km |
+|Catchment Area | 312812 sq. km 	 |
+|Average Water Resource Potential |110540 MCM|
+Utilizable Surface Water Resource | 76300 MCM|
+Live Storage Capacity of Completed Projects |35434.00 MCM|
+Live Storage Capacity of Projects Under Construction |8228.00 MCM|
+Total Live Storage Capacity of Projects |43662.00|
+No. of Hydrological Observation Stations |77|
+No. of Flood Forecasting Stations	|18|
 
 <br clear="left"/>
 

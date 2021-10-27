@@ -10,9 +10,9 @@ The lower reaches are sacred to Hindus. While most rivers on the Indian subconti
 
 Table:
 
-| passing countries | length of the river | various names at different region |
+| Passing countries | Length of the river | various names at different region |
 |:-------------------:|:-------------------:|:---------------------------------:|
-| Tibet, China, india, bangladesh| 3848 km       | Siang, Dihang, Luit, Dilao |
+| Tibet, China, India, Bangladesh| 3848 km       | Siang, Dihang, Luit, Dilao |
 
 ## Similar rivers in india
 

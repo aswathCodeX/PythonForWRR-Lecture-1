@@ -12,7 +12,8 @@ Table:
 
 | passing countries | length of the river | various names at different region |
 |:-------------------:|:-------------------:|:---------------------------------:|
-| Tibet, China, india, bangladesh| 3848 km       | Siang, Dihang, Luit, Dilao |   
+| Tibet, China, india, bangladesh| 3848 km       | Siang, Dihang, Luit, Dilao |
+
 ## Similar rivers in india
 
 1. Ganga

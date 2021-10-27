@@ -7,7 +7,7 @@ The Godavari ([IAST][2]: Godāvarī [ɡod̪aːʋəɾiː]) is India's second long
 The river has been revered in Hindu scriptures for many millennia and continues to harbour and nourish a rich cultural heritage. In the past few decades, the river has been barricaded by several barrages and dams, keeping a head of water (depth) which lowers evaporation. Its broad river delta houses 729 persons/sq. km – nearly twice the Indian average population density and has a substantial risk of flooding, which in lower parts would be exacerbated if the global sea level were to rise.
 
 
-<img align="right" src="https://sandrp.files.wordpress.com/2017/03/godavari_basin.png?w=420">
+<img align="right" src="https://sandrp.files.wordpress.com/2017/03/godavari_basin.png?w=320">
 
 | Salient Features of Godavari Basin [1]||
 | :------ | :----- |
